@@ -1,6 +1,5 @@
 local debug = false
 local version = '2.1'
-local Author = 'Linkpad - AuroraScripters'
 
 local _menuInit = false
 local globalMenu = { }
